@@ -23,14 +23,6 @@ My name is Leticia Garcia, I’m 22 years old, and I live in São Paulo. I have 
 
 <img 
     align="left" 
-    alt="Photoshop"
-    title="Adobe Photoshop" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Salesforce"
     title="Salesforce" 
     width="30px" 
@@ -90,6 +82,15 @@ My name is Leticia Garcia, I’m 22 years old, and I live in São Paulo. I have 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Photoshop"
+    title="Adobe Photoshop" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" 
 />
 
 <img 
