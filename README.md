@@ -10,7 +10,7 @@ My name is Leticia Garcia, I’m 22 years old, and I live in São Paulo. I have 
  
 #
 
-<img align="right" alt="" height="190px" src="./src/edgerunners.gif">
+<img align="right" alt="Leticia github" height="190px" src="./src/study2.jpeg">
 
 <h3 align="left">Connect with me!</h3>
 
