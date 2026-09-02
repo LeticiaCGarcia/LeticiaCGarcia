@@ -19,6 +19,8 @@ My name is Leticia Garcia, I’m 22 years old, and I live in São Paulo. I have 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:leticia.cgarcia77@gmail.com)
 
 
+<h3 align="left">My Stack ~</h3>
+
 <img 
     align="left" 
     alt="Salesforce"
