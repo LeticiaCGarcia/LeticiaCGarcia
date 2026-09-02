@@ -103,6 +103,45 @@ My name is Leticia Garcia, I’m 22 years old, and I live in São Paulo. I have 
 />
 
 <br/>
+
+<h3 align="left">My Tools ~</h3>
+
+<img 
+    align="left"
+    alt="VS Code"
+    title="VS Code"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+/>
+
+<img 
+    align="left"
+    alt="Git"
+    title="Git"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+
+<img 
+    align="left"
+    alt="GitHub"
+    title="GitHub"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+/>
+
+<img 
+    align="left"
+    alt="Adobe Photoshop"
+    title="Adobe Photoshop"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"
+/>
+<br/>
 <br/>
 
 <h3 align="left"> Project Management~</h3>
