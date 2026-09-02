@@ -145,12 +145,15 @@ My name is Leticia Garcia, I’m 22 years old, and I live in São Paulo. I have 
 <br/>
 <br/>
 
+<hr>
+
 <h3 align="left"> Project Management~</h3>
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
 ![Azure DevOps](https://custom-icon-badges.demolab.com/badge/Azure%20DevOps-0078D7?style=flat&logo=azure-devops-white&logoColor=white)
 
+<hr>
 
 <h3 align="left"> Agile Methodologies~</h3>
 
